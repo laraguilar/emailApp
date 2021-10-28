@@ -1,0 +1,10 @@
+<resources>
+<!-- Todas as Strings utilizadas no projeto devem ficar aqui, dessa forma fica fácil de dar
+manutenção no sistema, já que está tudo concentrado, e também auxilia no momento de traduzir para
+ outras linguas.-->
+    <string name="app_name">App Email</string>
+    <string name="str_email_hint">Digite o e-mail</string>
+    <string name="str_assunto_hint">Digite o assunto</string>
+    <string name="str_hint_mensagem">Digite a mensagem</string>
+    <string name="str_btn_enviar">Enviar e-mail</string>
+</resources>

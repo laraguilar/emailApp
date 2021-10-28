@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Email</string>
+    <string name="str_email_hint">Type e-mail</string>
+    <string name="str_assunto_hint">Type subject</string>
+    <string name="str_hint_mensagem">Type Message</string>
+    <string name="str_btn_enviar">Send e-mail</string>
+</resources>
